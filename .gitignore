@@ -1,0 +1,4 @@
+*.log
+CURRENT_URL
+test/frames/
+__pycache__/
